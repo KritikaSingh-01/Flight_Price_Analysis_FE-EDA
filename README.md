@@ -38,6 +38,14 @@ Key feature engineering steps include:
 
 ---
 
+## 🧠 Key Insights
+- Flight prices show high variability and right-skewness
+- Number of stops and duration significantly influence ticket prices
+- Temporal features (date and time) play an important role in price trends
+- Proper feature transformation improves data interpretability and structure
+
+---
+
 
 ## 🛠️ Tools & Libraries Used
 - Python
